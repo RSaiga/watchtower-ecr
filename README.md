@@ -1,5 +1,5 @@
 # WatchTower ECR
-A docker image based on [containrrr/watchtower]{https://github.com/containrrr/watchtower} for user with AWS ECR.
+A docker image based on [containrrr/watchtower](https://github.com/containrrr/watchtower) for user with AWS ECR.
 
 # Usage
 Run the container with the following command:
